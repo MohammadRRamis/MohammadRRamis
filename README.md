@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **MohammadRRamis@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Amk9fSjNLVla6SJ6rSC21QzBe_KOsj_c/view?usp=sharing](https://drive.google.com/file/d/1Amk9fSjNLVla6SJ6rSC21QzBe_KOsj_c/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_mramis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mramis" height="30" width="40" /></a>
